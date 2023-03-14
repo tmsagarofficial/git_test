@@ -1,3 +1,3 @@
 # git_test
 My first github repository!!
-Github works like majic
+Github works like magic.
